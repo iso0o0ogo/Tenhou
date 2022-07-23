@@ -2,7 +2,7 @@
 
 天鳳を用いた麻雀の研究
 
-## Python
+### Python
 
 scraping.py: プレイヤー名から牌譜URLを取得
 
@@ -10,11 +10,11 @@ download.py: 牌譜URLからmjlogファイルをダウンロード
 
 analysis.py: mjlogファイルを解析
 
-## R
+### R
 
 script.R: 分析スクリプト
 
-## csv
+### CSV
 
 hououtaku_raw.csv: 鳳凰卓における3000戦以上の成績データ(381名153項目)
 
