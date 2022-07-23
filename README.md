@@ -4,17 +4,22 @@
 
 ## Python
 
-scraping.py
-download.py
-analysis.py
+scraping.py: プレイヤー名から牌譜URLを取得
+
+download.py: 牌譜URLからmjlogファイルをダウンロード
+
+analysis.py: mjlogファイルを解析
 
 ## R
 
-script.R
+script.R: 分析スクリプト
 
 ## csv
 
-hououtaku_raw.csv
-hououtaku_pre.csv
-tenhoui_raw.csv
-tenhoui_pre.csv
+hououtaku_raw.csv: 鳳凰卓における3000戦以上の成績データ(381名153項目)
+
+hououtaku_pre.csv: 鳳凰卓における3000戦以上の成績データ(381名16項目)
+
+tenhoui_raw.csv: 鳳凰卓における天鳳位の成績データ(20名153項目)
+
+tenhoui_pre.csv: 鳳凰卓における天鳳位の成績データ(20名16項目)
